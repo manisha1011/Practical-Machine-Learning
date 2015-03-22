@@ -26,7 +26,6 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 
 </head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -37,7 +36,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </style>
 <div class="container-fluid main-container">
 
-
+<body>
 <div id="header">
 <h1 class="title">Coursera: Practical Machine Learning Prediction Assignment</h1>
 <h4 class="author"><em>Manisha Arora </em></h4>
@@ -87,7 +86,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <p><strong>What you should submit</strong></p>
 </blockquote>
 <blockquote>
-<p>The goal of your project is to predict the manner in which they did the exercise. This is the “classe” variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.</p>
+<p>The goal of your project is to predict the manner in which they did the exercise. This is the Â“classeÂ” variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.</p>
 </blockquote>
 <blockquote>
 <ol style="list-style-type: decimal">
